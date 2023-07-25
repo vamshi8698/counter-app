@@ -1,0 +1,16 @@
+.counterContainer {
+  background-color: #654879;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 10rem;
+  padding: 10rem;
+  box-shadow: 11px 1px 20px 0px;
+}
+
+.header{
+  position: absolute;
+}
+body {
+  /* background-color: #654879; */
+}
